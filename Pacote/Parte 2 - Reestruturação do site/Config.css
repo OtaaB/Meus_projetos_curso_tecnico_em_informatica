@@ -1,0 +1,28 @@
+body{
+    background-color: white ;
+}
+
+p { font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40; color: black; 
+    ;
+}
+
+h1{
+    font-family: fantasy;
+    color: red;
+    background-color: #D4DDED;
+    font-size: 60px;
+}
+
+h2, h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 15%;
+}
+
+li{
+    background-color: #D4DDED;
+    font-family: 'Courier New', Courier, monospace;
+   
+    }
